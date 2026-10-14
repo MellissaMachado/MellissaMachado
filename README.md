@@ -1,7 +1,5 @@
-### Olá! Eu sou Mellissa dos Santos Machado 👋
+## Olá! Eu sou Mellissa👋
 
-
-- 🌱 Estudante do curso Ciência da Computação
-- 📫 Entre em contato no email: mellissasantos2002@gmail.com 
-- 😄 Pronouns: ela/dela
-
+- 📚 Cursando Ciência da Computação
+- 💻 Estudando e praticando 
+- 📫 Contato: mellissasantos2002@gmail.com 
